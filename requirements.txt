@@ -4,7 +4,7 @@ numpy
 matplotlib
 Flask
 scikit-learn
+pymongo[srv]==3.6
 pymongo
-certifi
 
--e .
+##-e .

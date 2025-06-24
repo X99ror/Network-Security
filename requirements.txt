@@ -8,4 +8,5 @@ pymongo
 pymongo[srv]>=4.3.3
 dill
 pyaml
+mlflow
 ##-e .
